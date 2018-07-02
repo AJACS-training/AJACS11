@@ -41,25 +41,21 @@
 * [文部科学省委託研究開発事業「統合データベースプロジェクト」 ](http://lifesciencedb.mext.go.jp/)
 * 大学共同利用機関法人 情報・システム研究機構 [ライフサイエンス統合データベースセンター(DBCLS)](http://DBCLS.rois.ac.jp/)
 
-<div class="jumpmenu">↑</div>
 
-### [_](http://MotDB.DBCLS.jp/?AJACS11#t2ff587d "t2ff587d") 内容  
+### 内容  
 
 * 13:00-13:15 「はじめに：統合データベースプロジェクトとは？」
-* 13:15-14:15 [「生命科学横断検索の利用法」](http://MotDB.DBCLS.jp/?AJACS11%2Fthecla "AJACS11/thecla (3278d)")
-* 14:15-14:45 [「DNAデータベース総覧と検索の使い方」](http://MotDB.DBCLS.jp/?AJACS11%2Fbono "AJACS11/bono (3278d)")
+* 13:15-14:15 [「生命科学横断検索の利用法」](01_nakazato.md)
+* 14:15-14:45 [「DNAデータベース総覧と検索の使い方」](02_bono.md)
 * 14:45-14:55 休憩
 * 14:55-15:35 招待講演
 
     * 内山郁夫「微生物ゲノム比較のためのデータベースMBGD」
     * 成瀬清「メダカ完全長 cDNAリソースの整備とデータベース構築」
 
-* 15:35-16:20 [「遺伝子発現データベースを使い倒す」](http://MotDB.DBCLS.jp/?AJACS11%2Fhono "AJACS11/hono (3278d)")
+* 15:35-16:20 [「遺伝子発現データベースを使い倒す」](03_hono.md)
 * 16:20-16:30 休憩
-* 16:30-17:00 [「アナトモグラフィー/BodyParts3Dの利用法」 ](http://MotDB.DBCLS.jp/?AJACS11%2Fmitsuhashi "AJACS11/mitsuhashi (3236d)")
-* 17:00-17:45 [『Genome AnnotationとKazusaAnnotation」 ](http://MotDB.DBCLS.jp/?AJACS11%2Fso "AJACS11/so (3278d)")
+* 16:30-17:00 [「アナトモグラフィー/BodyParts3Dの利用法」 ](04_mitsuhashi.md)
+* 17:00-17:45 [『Genome AnnotationとKazusaAnnotation」 ](05_so.md)
 * 17:45-18:00 「おわりに」
 
-* [講習会アンケート ](http://MotDB.DBCLS.jp/?AJACS11%2Fquestionnaire "AJACS11/questionnaire (3276d)")
-
-}}
